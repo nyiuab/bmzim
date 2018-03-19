@@ -1,2 +1,1 @@
-# bzims
-bzims (Bayesian zero-inflated models)
+# bzims: Bayesian zero-inflated models
