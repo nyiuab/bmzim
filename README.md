@@ -6,6 +6,4 @@ This package provides functions for setting up and fitting various Bayesian mode
 
 Author: Nengjun Yi nyi@uab.edu; Maintainer: Nengjun Yi nyi@uab.edu
 
-# Installation
 
-download the zip file, and then install it in R.
